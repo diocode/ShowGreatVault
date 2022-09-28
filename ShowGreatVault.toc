@@ -1,4 +1,4 @@
-## Interface: 90100
+## Interface: 90207
 ## Title: ShowGreatVault
 ## Notes: Displays Great Vault interface from anywhere.
 ## Author: zelgados
